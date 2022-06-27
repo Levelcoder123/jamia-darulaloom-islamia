@@ -1,0 +1,45 @@
+.lightblue{
+    background-color: lightblue;
+}
+.myheading1{
+    border-radius:50px;
+    font-size: 30px;
+    margin-bottom:20px;
+    margin-right:20px;
+    margin-left:20px;
+    color: rgb(12, 11, 6);
+    background-color: rgb(144, 217, 241);
+    text-align: center;
+    font-family: "jameel noori nastaleeq";
+    direction: 
+}
+.myheading2{
+    border-radius:50px;
+    font-size: 30px;
+    margin:bottom 20px;
+    margin-right:20px;
+    margin-left:20px;
+    color:rgb(12, 11, 6);
+    background-color: rgb(144, 217, 241);
+    text-align: center;
+    font-family: "jameel noori nastaleeq";
+    direction: rtl;
+}
+.myheading3{
+    border-radius:50px;
+    font-size: 30px;
+    margin-bottom:20px;
+    margin-right:20px;
+    margin-left:20px;
+    color: rgb(12, 11, 6);
+    background-color: rgb(144, 217, 241);
+    text-align: center;
+    font-family: "jameel noori nastaleeq";
+    direction: rtl;
+}
+.image{border-radius:50px ;
+}
+.mybutton{
+    font-size: 30px;
+    background-color: aqua;
+}
